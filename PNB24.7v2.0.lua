@@ -1,0 +1,3 @@
+allowedUserIds = {
+    "6964",
+}
