@@ -1,3 +1,3 @@
 allowedUserIds = {
-    "694",
+    "6964",
 }
